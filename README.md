@@ -39,3 +39,9 @@
 </td>
   </tr>
 </table>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitanandk&show_icons=true&locale=en&layout=compact" alt="ankitanandk" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitanandk&show_icons=true&locale=en" alt="ankitanandk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitanandk&" alt="ankitanandk" /></p>
