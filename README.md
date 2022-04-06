@@ -20,7 +20,7 @@
   <img align="left" alt="Ankit Anand's LinkedIn" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" />
 </a>
 <a href="https://www.instagram.com/ankit_k.anand/">
-  <img align="left" alt="Ankit Anand's Instagram" width="20px" height="20px" src="https://icon-icons.com/icon/instagram/108066.png" />
+  <img align="left" alt="Ankit Anand's Instagram" width="20px" height="20px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
 <a href="https://twitter.com/Ankitanandk">
   <img align="left" alt="Ankit Anand's Twitter" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-6twitter-4102580_113802.png" />
