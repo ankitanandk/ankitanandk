@@ -16,7 +16,7 @@
 
 ### Connect
 
-<a href="www.linkedin.com/in/ankitkanand">
+<a href="https://linkedin.com/in/ankitkanand">
   <img align="left" alt="Ankit Anand's LinkedIn" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" />
 </a>
 <a href="https://www.instagram.com/ankit_k.anand/">
